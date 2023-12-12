@@ -8,5 +8,6 @@ namespace SalesWebMvc3.Models.ModelsView
     {
         public Saller Seller { get; set; }
         public ICollection<Department> Departments { get; set; }
+        public Saller Sallar { get; internal set; }
     }
 }
