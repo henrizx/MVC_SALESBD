@@ -41,3 +41,4 @@ C:\Users\marselo\source\repos\SalesWebMvc3\SalesWebMvc3\obj\Debug\netcoreapp2.1\
 C:\Users\marselo\source\repos\SalesWebMvc3\SalesWebMvc3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\marselo\source\repos\SalesWebMvc3\SalesWebMvc3\obj\Debug\netcoreapp2.1\Razor\Views\Sallars\Index.cshtml.g.cs
 C:\Users\marselo\source\repos\SalesWebMvc3\SalesWebMvc3\obj\Debug\netcoreapp2.1\Razor\Views\Sallars\Create.cshtml.g.cs
+C:\Users\marselo\source\repos\SalesWebMvc3\SalesWebMvc3\obj\Debug\netcoreapp2.1\Razor\Views\Sallars\Delete.cshtml.g.cs
